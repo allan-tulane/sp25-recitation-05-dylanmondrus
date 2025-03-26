@@ -6,7 +6,7 @@ In this recitation, we'll look at randomness in computation.
 
 All coding portions should go in `main.py` as usual.
 
-
+fkfkf
 ## Determinism versus Randomization in Quicksort
 
 In lecture we saw that adding a random choice of pivot reduced the
